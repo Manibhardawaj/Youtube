@@ -1,5 +1,5 @@
 YouTube Video Player - React Project
-Follow the link https://myyoutube2.netlify.app/
+Follow the link https://myyoutubecom.netlify.app/
 
 Summary:
 This GitHub repository contains a full-stack web application project that allows users to watch YouTube videos online. The project is built using the MERN (MongoDB, Express, React, Node.js) stack and Next.js for server-side rendering. It provides an intuitive user interface powered by Material-UI components for an elegant and responsive design.
